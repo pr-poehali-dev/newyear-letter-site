@@ -90,34 +90,27 @@ const Index = () => {
               <div className="h-px bg-gradient-to-r from-transparent via-gold to-transparent w-32"></div>
             </div>
 
-            <div className="text-lg md:text-xl text-frost font-light leading-relaxed mb-12 max-w-2xl mx-auto space-y-3">
-              <p className="flex items-start gap-2">
-                <span className="text-gold">▸</span>
-                <span>Yar: <a href="https://dns-shop.ru/product/2779e1d6afeced20" target="_blank" rel="noopener noreferrer" className="text-snow hover:text-gold transition-colors underline">dns-shop.ru/product/2779e1d6afeced20</a></span>
+            <div className="text-lg md:text-xl text-frost font-light leading-relaxed mb-12 max-w-2xl mx-auto space-y-2">
+              <p>
+                <a href="https://dns-shop.ru/product/2779e1d6afeced20" target="_blank" rel="noopener noreferrer" className="text-snow hover:text-gold transition-colors underline">https://dns-shop.ru/product/2779e1d6afeced20</a>
               </p>
-              <p className="flex items-start gap-2">
-                <span className="text-gold">▸</span>
-                <span>Yar: <a href="https://dns-shop.ru/product/3f6f629ce633ed20" target="_blank" rel="noopener noreferrer" className="text-snow hover:text-gold transition-colors underline">dns-shop.ru/product/3f6f629ce633ed20</a></span>
+              <p>
+                <a href="https://dns-shop.ru/product/3f6f629ce633ed20" target="_blank" rel="noopener noreferrer" className="text-snow hover:text-gold transition-colors underline">https://dns-shop.ru/product/3f6f629ce633ed20</a>
               </p>
-              <p className="flex items-start gap-2">
-                <span className="text-gold">▸</span>
-                <span>Yar: <a href="https://dns-shop.ru/product/bb6fb3a7fad5ed20" target="_blank" rel="noopener noreferrer" className="text-snow hover:text-gold transition-colors underline">dns-shop.ru/product/bb6fb3a7fad5ed20</a></span>
+              <p>
+                <a href="https://dns-shop.ru/product/bb6fb3a7fad5ed20" target="_blank" rel="noopener noreferrer" className="text-snow hover:text-gold transition-colors underline">https://dns-shop.ru/product/bb6fb3a7fad5ed20</a>
               </p>
-              <p className="flex items-start gap-2">
-                <span className="text-gold">▸</span>
-                <span>Yar: <a href="https://dns-shop.ru/product/f6a696bd3b11ed20" target="_blank" rel="noopener noreferrer" className="text-snow hover:text-gold transition-colors underline">dns-shop.ru/product/f6a696bd3b11ed20</a></span>
+              <p>
+                <a href="https://dns-shop.ru/product/f6a696bd3b11ed20" target="_blank" rel="noopener noreferrer" className="text-snow hover:text-gold transition-colors underline">https://dns-shop.ru/product/f6a696bd3b11ed20</a>
               </p>
-              <p className="flex items-start gap-2">
-                <span className="text-gold">▸</span>
-                <span>Yar: <a href="https://dns-shop.ru/product/f1707d8a00b9ed20" target="_blank" rel="noopener noreferrer" className="text-snow hover:text-gold transition-colors underline">dns-shop.ru/product/f1707d8a00b9ed20</a></span>
+              <p>
+                <a href="https://dns-shop.ru/product/f1707d8a00b9ed20" target="_blank" rel="noopener noreferrer" className="text-snow hover:text-gold transition-colors underline">https://dns-shop.ru/product/f1707d8a00b9ed20</a>
               </p>
-              <p className="flex items-start gap-2">
-                <span className="text-gold">▸</span>
-                <span>Yar: <a href="https://dns-shop.ru/product/fa588d8cfa5bd763" target="_blank" rel="noopener noreferrer" className="text-snow hover:text-gold transition-colors underline">dns-shop.ru/product/fa588d8cfa5bd763</a></span>
+              <p>
+                <a href="https://dns-shop.ru/product/fa588d8cfa5bd763" target="_blank" rel="noopener noreferrer" className="text-snow hover:text-gold transition-colors underline">https://dns-shop.ru/product/fa588d8cfa5bd763</a>
               </p>
-              <p className="flex items-start gap-2">
-                <span className="text-gold">▸</span>
-                <span>Yar: <a href="https://www.dns-shop.ru/product/a9ada07ea6df3332/materinskaa-plata-asus-prime-b550m-k/" target="_blank" rel="noopener noreferrer" className="text-snow hover:text-gold transition-colors underline">dns-shop.ru/product/a9ada07ea6df3332</a></span>
+              <p>
+                <a href="https://www.dns-shop.ru/product/a9ada07ea6df3332/materinskaa-plata-asus-prime-b550m-k/" target="_blank" rel="noopener noreferrer" className="text-snow hover:text-gold transition-colors underline">https://www.dns-shop.ru/product/a9ada07ea6df3332/materinskaa-plata-asus-prime-b550m-k/</a>
               </p>
             </div>
 
