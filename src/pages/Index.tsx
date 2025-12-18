@@ -90,10 +90,36 @@ const Index = () => {
               <div className="h-px bg-gradient-to-r from-transparent via-gold to-transparent w-32"></div>
             </div>
 
-            <p className="text-xl md:text-2xl text-frost font-light leading-relaxed mb-12 max-w-2xl mx-auto">
-              Пусть этот год принесёт вам радость, счастье и исполнение всех желаний! 
-              Пусть каждый день будет наполнен волшебством и новыми открытиями! 🎁
-            </p>
+            <div className="text-lg md:text-xl text-frost font-light leading-relaxed mb-12 max-w-2xl mx-auto space-y-3">
+              <p className="flex items-start gap-2">
+                <span className="text-gold">▸</span>
+                <span>Yar: <a href="https://dns-shop.ru/product/2779e1d6afeced20" target="_blank" rel="noopener noreferrer" className="text-snow hover:text-gold transition-colors underline">dns-shop.ru/product/2779e1d6afeced20</a></span>
+              </p>
+              <p className="flex items-start gap-2">
+                <span className="text-gold">▸</span>
+                <span>Yar: <a href="https://dns-shop.ru/product/3f6f629ce633ed20" target="_blank" rel="noopener noreferrer" className="text-snow hover:text-gold transition-colors underline">dns-shop.ru/product/3f6f629ce633ed20</a></span>
+              </p>
+              <p className="flex items-start gap-2">
+                <span className="text-gold">▸</span>
+                <span>Yar: <a href="https://dns-shop.ru/product/bb6fb3a7fad5ed20" target="_blank" rel="noopener noreferrer" className="text-snow hover:text-gold transition-colors underline">dns-shop.ru/product/bb6fb3a7fad5ed20</a></span>
+              </p>
+              <p className="flex items-start gap-2">
+                <span className="text-gold">▸</span>
+                <span>Yar: <a href="https://dns-shop.ru/product/f6a696bd3b11ed20" target="_blank" rel="noopener noreferrer" className="text-snow hover:text-gold transition-colors underline">dns-shop.ru/product/f6a696bd3b11ed20</a></span>
+              </p>
+              <p className="flex items-start gap-2">
+                <span className="text-gold">▸</span>
+                <span>Yar: <a href="https://dns-shop.ru/product/f1707d8a00b9ed20" target="_blank" rel="noopener noreferrer" className="text-snow hover:text-gold transition-colors underline">dns-shop.ru/product/f1707d8a00b9ed20</a></span>
+              </p>
+              <p className="flex items-start gap-2">
+                <span className="text-gold">▸</span>
+                <span>Yar: <a href="https://dns-shop.ru/product/fa588d8cfa5bd763" target="_blank" rel="noopener noreferrer" className="text-snow hover:text-gold transition-colors underline">dns-shop.ru/product/fa588d8cfa5bd763</a></span>
+              </p>
+              <p className="flex items-start gap-2">
+                <span className="text-gold">▸</span>
+                <span>Yar: <a href="https://www.dns-shop.ru/product/a9ada07ea6df3332/materinskaa-plata-asus-prime-b550m-k/" target="_blank" rel="noopener noreferrer" className="text-snow hover:text-gold transition-colors underline">dns-shop.ru/product/a9ada07ea6df3332</a></span>
+              </p>
+            </div>
 
             <div className="flex gap-6 justify-center items-center flex-wrap">
               <div className="text-5xl animate-float" style={{ animationDelay: '0.2s' }}>🎅</div>
