@@ -81,7 +81,7 @@ const Index = () => {
             </div>
             
             <h1 className="text-6xl md:text-8xl font-bold mb-6 text-snow">
-              С Новым <span className="text-gold">2025</span> Годом!
+              Здравствуй Дедушка Мороз
             </h1>
             
             <div className="flex items-center justify-center gap-4 mb-8">
